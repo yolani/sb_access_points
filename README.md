@@ -1,7 +1,7 @@
 # API Schnittstellen sonnen-Batterie
 
 GET:
-- http://<IP>:8080/api/inverter: [Details](inverter_sample.md)
+- http://<IP>:8080/api/inverter: [Details](details_inverter.md)
 - http://<IP>:8080/api/powermeter
 - http://<IP>:8080/api/battery
 - http://<IP>:8080/api/v1/status
