@@ -1,3 +1,8 @@
-# Beispiel-Output Inverter Schnittstelle
+# Sample-Output
 
-# Erläuterung der Attribute
+# Explanation of output-content
+
+| Attribute | Details |
+| --------- |:-------:|
+| status | TBD |
+| ... | ... |
