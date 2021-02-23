@@ -1,0 +1,1 @@
+#Beispiel-Output Inverter Schnittstelle
