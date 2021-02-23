@@ -1,5 +1,4 @@
-# sb_access_points
-Schnittstellen sonnen-Batterie
+# API Schnittstellen sonnen-Batterie
 
 GET:
 - http://<IP>:8080/api/inverter
