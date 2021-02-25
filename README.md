@@ -6,7 +6,7 @@ GET
 | ----------- |:------------------------:| -------:|
 | http://\<IP\>:8080/api/inverter | Eco 8.0 | [Details](details_inverter.md) |
 | http://\<IP\>:8080/api/powermeter | Eco 8.0 | TBD |
-| http://\<IP\>:8080/api/battery | Eco 8.0 | TBD |
+| http://\<IP\>:8080/api/battery | Eco 8.0 | [Details](details_battery.md) |
 | http://\<IP\>:8080/api/v1/status | Eco 8.0 | TBD |
 | http://\<IP\>:80/api/v2/status | Eco 8.0 | TBD |
 | http://\<IP\>:8080/api/battery_system | Eco 8.0 | TBD - (Empty response, Use-Case?)|
